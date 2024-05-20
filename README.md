@@ -36,7 +36,7 @@
 - :trophy: `Proyecto de Análisis de Algoritmos`: [Juego de Análisis](https://github.com/Sebastarazq/juegoanalisis) - Flappy Bird en JavaScript utilizando métodos numéricos.
 - :trophy: `Proyecto Integrador 1`: [ProyectoGymbros](https://github.com/Sebastarazq/ProyectoGymbros) - Una página de venta de productos de cuidado masculino.
 - :trophy: `Proyecto Integrador 2`: [GestionCartas2](https://github.com/Sebastarazq/GestionCartas2) - Proyecto realizado en un grupo grande utilizando el marco de trabajo Scrum llamado The Nexus Battle 2, me encargué del apartado del editor de cartas y personajes.
-- :trophy: `Proyecto Integrador 3 Móvil y API`: [Proyecto_Jobder](https://github.com/Sebastarazq/Proyecto_Jobder) - Jobder, una app para facilitar a los programadores encontrar trabajo en una aplicación tipo match.
+- :trophy: `Proyecto Integrador 3 Móvil y API`: [Proyecto_Jobder](https://github.com/Sebastarazq/Proyecto_Jobder/tree/Desarrollador) - Jobder, una app para facilitar a los programadores encontrar trabajo en una aplicación tipo match.
 
 <br>
 
